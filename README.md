@@ -32,7 +32,7 @@ mkdir CMTSolutions
 
 cd CMTSolutions
 
-git clone https://github.com/usmanasif/cmt_solutions.git
+git clone https://github.com/allahwasayadev/cmt_solutions.git
 
 cd cmt_solutions
 
